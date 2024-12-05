@@ -117,5 +117,8 @@
     </xacro:inertial_sphere>
 </link>
 
+<gazebo reference="chassis">
+    <material>Gazebo/White</material>
+</gazebo>
 
 </robot>
